@@ -1,0 +1,13 @@
+.btn.btn-primary{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+.card-img-top{
+    height: 181px;
+}
+
+#card1{
+    margin-left: 10px;
+}
