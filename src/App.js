@@ -1,16 +1,21 @@
 import React from 'react'
 import './App.css';
+import CSEsecondYear from './components/CSE/SecondYear';
+import Dummy from './components/Dummy';
 // import Cards from './components/Cards';
-import CSEhome from './components/CSE/Home';
+// import Login from './components/Login';
+// import CSEhome from './components/CSE/Home';
 import Navbar from './components/Navbar';
 
 function App() {
   return (
     <>
       <Navbar/>
-      <br/> <br/>
-      {/* <Cards/> */}
-      <CSEhome />
+      {/* <Dummy/> */}
+      <CSEsecondYear />
+      {/* <Login /> */}
+       {/* <Cards/>  */}
+      {/* <CSEhome /> */}
     </>
   );
 }
