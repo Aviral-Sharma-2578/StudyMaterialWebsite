@@ -50,17 +50,10 @@ export default function Login() {
   <div className="col-md">
     <div className="form-floating">
       <select className="form-select" id="floatingSelectGrid">
-        <option selected>2023</option>
-        <option value="1">2022</option>
-        <option value="2">2021</option>
-        <option value="3">2020</option>
-        <option value="4">2019</option>
-        <option value="5">2018</option>
-        <option value="6">2017</option>
-        <option value="7">2016</option>
-        <option value="8">2015</option>
-        <option value="9">2014</option>
-        <option value="10">2013</option>
+        <option selected>1st year</option>
+        <option value="1">2nd year</option>
+        <option value="2">3rd year</option>
+        <option value="3">4th year</option>
       </select>
       <label htmlFor="floatingSelectGrid">Select Year</label>
     </div>

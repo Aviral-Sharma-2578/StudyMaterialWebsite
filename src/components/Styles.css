@@ -59,3 +59,10 @@
     size: 2cm;
 }
 
+.navbar.bg-body-tertiary{
+    display: flex;
+}
+.btn.btn-primary{
+    float: left;
+    margin: 5px;
+}

@@ -1,20 +1,19 @@
 import React from 'react'
 import './App.css';
-import CSEsecondYear from './components/CSE/SecondYear';
-import Dummy from './components/Dummy';
-// import Cards from './components/Cards';
-// import Login from './components/Login';
-// import CSEhome from './components/CSE/Home';
+import Cards from './components/Cards';
+import Login from './components/Login';
 import Navbar from './components/Navbar';
+import Semester3 from './components/CSE/Semester3';
 
 function App() {
   return (
     <>
       <Navbar/>
       {/* <Dummy/> */}
-      <CSEsecondYear />
-      {/* <Login /> */}
-       {/* <Cards/>  */}
+      {/* <CSEsecondYear /> */}
+      {/* <Login /> */} 
+      {/* <Cards/>  */}
+      <Semester3 />
       {/* <CSEhome /> */}
     </>
   );
