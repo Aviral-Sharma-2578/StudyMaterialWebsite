@@ -8,15 +8,15 @@ import Books from "./Images/books.jpg"
 function Courses() {
   return (
     <ul class="dropdown-menu animate__animated animate__flipInX">
-        <li><a class="dropdown-item" href="#scrollspyHeading12">MA204(Numerical Methods)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading13">CS202(Automata Theory and Logic)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading14">CS204(Design and Analysis of Algorithms)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading15">CS206(Logic Design)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading16">CS208(Software Engineering)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading17">CS254(Design and Analysis of Algorithms Lab)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading18">CS256(Logic Design Lab)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading19">CS258(Software Engineering Lab)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading20">CS262(Program Development and Software Design Lab-II)</a></li>
+        <li><a class="dropdown-item" href="/">HS208(French Language – II)</a></li>
+        <li><a class="dropdown-item" href="/">MA204(Numerical Methods)</a></li>
+        <li><a class="dropdown-item" href="/">CS202(Automata Theory and Logic)</a></li>
+        <li><a class="dropdown-item" href="/">CS204(Design and Analysis of Algorithms)</a></li>
+        <li><a class="dropdown-item" href="/">CS206(Logic Design)</a></li>
+        <li><a class="dropdown-item" href="/">CS208(Software Engineering)</a></li>
+        <li><a class="dropdown-item" href="/">CS254(Design and Analysis of Algorithms Lab)</a></li>
+        <li><a class="dropdown-item" href="/">CS256(Logic Design Lab)</a></li>
+        <li><a class="dropdown-item" href="/">CS258(Software Engineering Lab)</a></li>
   </ul>
   )
 }

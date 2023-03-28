@@ -8,17 +8,17 @@ import Books from "./Images/books.jpg"
 function Courses() {
   return (
     <ul class="dropdown-menu animate__animated animate__flipInX">
-        <li><a class="dropdown-item" href="#scrollspyHeading12">HS111(Introduction to Philosophy)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading13">HS113(Economics)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading14">HS115(Reading Literature)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading15">MA201(Mathematics-III)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading16">EE104(Basic Electrical and Electronics Engineering )</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading17">CS201(Discrete Mathematical Structures)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading18">CS203(Data Structures and Algorithms )</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading19">CS253(Data Structures and Algorithms Lab )</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading20">CS261(Program Development and Software Design Lab-I)</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading20">EE154(Basic Electrical and Electronics Engineering Lab )</a></li>
-        <li><a class="dropdown-item" href="#scrollspyHeading20">IC211(Experimental Engineering Lab ))</a></li>
+        <li><a class="dropdown-item" href="/">HS201(Understanding Philosophy)</a></li>
+        <li><a class="dropdown-item" href="/">HS203(Psychology)</a></li>
+        <li><a class="dropdown-item" href="/">HS205(Sociology)</a></li>
+        <li><a class="dropdown-item" href="/">HS207(French Language – I)</a></li>
+        <li><a class="dropdown-item" href="/">MA203(Complex Analysis and Differential Equations-II)</a></li>
+        <li><a class="dropdown-item" href="/">CS201(Discrete Mathematical Structures)</a></li>
+        <li><a class="dropdown-item" href="/">CS203(Data Structures and Algorithms)</a></li>
+        <li><a class="dropdown-item" href="/">CS207(Data Base & Information Systems)</a></li>
+        <li><a class="dropdown-item" href="/">CS253(Data Structures and Algorithms Lab)</a></li>
+        <li><a class="dropdown-item" href="/">CS257(Data Base & Information Systems Lab )</a></li>
+        <li><a class="dropdown-item" href="/">IC211(Experimental Engineering Lab)</a></li>
   </ul>
   )
 }
